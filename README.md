@@ -1,2 +1,2 @@
 # personal-solution
-Projects in which I try out new principles, possibilities.
+Projects in which I try out new principles, possibilities
